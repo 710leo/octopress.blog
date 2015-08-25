@@ -3,7 +3,7 @@ layout: post
 title: "用Octopress搭建博客"
 date: 2014-09-14 13:01:14 +0800
 comments: true
-categories: 其它
+categories: 杂谈
 ---
 
 博客以前一直放在BAE上，最近突然博客打不开了，发现原来BAE2.0的所有应用都下线了。。一直觉得Octopress不错，于是决定用Octopress+Github搭建一个博客，记录下搭建过程
